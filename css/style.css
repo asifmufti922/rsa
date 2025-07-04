@@ -24,7 +24,6 @@ p{
 :root {
     --primary-cas-color: #28a745;   /* Fresh Parrot Green */
     --secondary-cas-color: #f72585; /* Vibrant Pinkish Accent */
-}
     --primary-font: 'Karla', sans-serif;
     --secondary-font: 'Poppins', sans-serif;
     --cas-section-padding-100: 100px 0px;
